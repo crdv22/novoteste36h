@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
-http://m3ulink.com:6969/Tmoraisalves1/ABPGT2bA/16740
+http://93.189.63.194/hls-live/xmlive/_definst_/2698647/2698647.m3u8?refId=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
 http://tv.id.iptv.uno:80/live/Clj33bDeyV634/xn2KAw318/7846.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL",RTP 2 (Copyright © 2019 - TeamBlue)
